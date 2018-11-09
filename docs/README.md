@@ -4,13 +4,11 @@ heroImage: /images/logo.png
 actionText: Get Started →
 actionLink: /guide/
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title: Find a Job
+  details: Search for a job that is suited with your skills and preference. All other features like Job Application Letter submission, company search, and notifications also exist in the application.
+- title: Applicant Search
+  details: Create job openings for potential talents to see. And also receive submitted applications. Company owners can also track Application progress by assigning job hiring procedures.
+- title: Collaborate with your Human Resource Agent
+  details: Our system is built with collaboration in mind. Help and be helped for and by your trusted peers.
+footer: MIT Licensed | Copyright © 2018-present Nexseed Inc.
 ---
-
-# Hello VuePress
