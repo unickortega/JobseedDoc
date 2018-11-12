@@ -8,7 +8,7 @@ All registered users has access to the following basic features:
 ​
 - Profile Management
 - Job Search
-- Job Application
+- Job Application / Submitting Application
 - Company Search
 
 ## Company Owner
@@ -18,8 +18,9 @@ After the business has been verified, Jobseed will provide a create token. If a 
 
 - Job Posting
 - Application Progress Tracking
-- Statistic Reporting
+- Statistics Report
 - Applicant Search
+- Add HR Collaborator
 
 ## HR Agent
 
