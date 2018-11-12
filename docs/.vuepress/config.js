@@ -18,7 +18,8 @@ module.exports = {
                 '',
                 'apply',
                 'create-company',
-                'how-to-track-application-progress'
+                'how-to-track-application-progress',
+                'create-opening'
             ]
         }
     }

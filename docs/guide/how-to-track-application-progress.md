@@ -1,6 +1,7 @@
 # How to track Hiring Progress?
 
-Jobseed has an Job application tracking feature.
+Jobseed not only provides a means to create postings and receive incoming applications but it also
+provides a means to track `Hiring Progress`.
 
 ## Application States
 
@@ -56,3 +57,25 @@ For example:
 
 <br>
 As you can see the only difference in the examples is the Technical Exam. But you can add any type and number of steps as you prefer.
+
+## Updating Application Progress
+
+To update `Application Progress`, click `Hiring Applications` link in your company profile.
+
+![image](/images/hiring-applications-link.jpg)
+
+Then, you will be redirected to the applications list page where there are four tabs for the four
+application states, `pending`, `in-progress`, `finished`, and `inactive`.
+
+![image](/images/applications-list.jpg)
+
+To start hiring procedure for an application, click `Start Hiring Procedure` button.
+
+## Hiring Step Result
+
+You will be prompted to fill up two result fields.
+
+- Rating - This is how much you rate the Step `from 1 to 10`.
+- Notes - This is for the notes that you want to write for the particular Step.
+
+![image](/images/application-step-result-form.jpg)
